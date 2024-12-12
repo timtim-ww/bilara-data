@@ -2,6 +2,7 @@
   "publication:aboutThisLicense": "ဤလိုင်စင်အကြောင်း ",
   "publication:aboutTitle": "ပုံနှိပ်ထုတ်ဝေမှုများအကြောင်း ",
   "publication:edition": "ပုံနှိပ်အကြိမ်",
+  "publication:editionsToolbarTitle": "ထုတ်ဝေမှုများ ",
   "publication:githubSource": "အချက်အလက်များ ရလိုပါက Github တွင်သွားရောက် ကြည့်ရှုပါ။ ",
   "publication:license": "လိုင်စင်",
   "publication:licenseDescription": "ဥပဒေမှ ခွင့်ပြုထားသော အတိုင်းအတာအထ<span property='dct:title'>{authorName}</span>a> သည် <cite property='dct:title'>{translationTitle}</cite> ကို မူလမူပိုင်များ သို့မဟုတ် မူပိုင်များနှင့် ဆက်နွယ်သူများနှင့် ပါတ်သက်သော အခွံကြေးငွေများကို ကင်းလွတ်ခွင့်ပြုပါသည်။ ယခုထုတ်ဝေမှုသည် <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australia</span> မှဖြစ်ပါသည်။",
