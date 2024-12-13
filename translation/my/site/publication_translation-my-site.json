@@ -11,7 +11,7 @@
   "publication:editions2": "ထုတ်ဝေမှုများကို မိမိတို့၏ နောက်ဆုံး ပြီးပြည့်စုံ စိတ်ချရသော ဘာသာပြန်များမှ ရွေးချယ်ထားခြင်းဖြစ်သည်။ ",
   "publication:editionsSubtitle": "ရွေးချယ်ထားသော ဘာသာပြန် စာအုပ်ပုံနှိပ်မှု အမျိုးမျိုး ",
   "publication:editionsToolbarTitle": "ထုတ်ဝေမှုများ ",
-  "publication:githubSource": "အချက်အလက်များ ရလိုပါက Github တွင်သွားရောက် ကြည့်ရှုပါ။ ",
+  "publication:githubSource": "မူရင်းစာများ ရလိုပါက Github သို့သွားပါ။ ",
   "publication:license": "လိုင်စင်",
   "publication:licenseDescription": "ဥပဒေမှ ခွင့်ပြုထားသော အတိုင်းအတာအထ<span property='dct:title'>{authorName}</span>a> သည် <cite property='dct:title'>{translationTitle}</cite> ကို မူလမူပိုင်များ သို့မဟုတ် မူပိုင်များနှင့် ဆက်နွယ်သူများနှင့် ပါတ်သက်သော အခွံကြေးငွေများကို ကင်းလွတ်ခွင့်ပြုပါသည်။ ယခုထုတ်ဝေမှုသည် <span property='vcard:Country' datatype='dct:ISO3166' content='AU' about='https://suttacentral.net/licensing'>Australia</span> မှဖြစ်ပါသည်။",
   "publication:numberOfVolumes": "အတွဲအရေအတွက်",
