@@ -1,6 +1,7 @@
 {
   "autocomplete:change": "ပြင်ဆင်ခြင်း ",
   "autocomplete:collection": "စုဆောင်းမှု",
+  "autocomplete:filterSearch": "အစောပိုင်း ဗုဒ္ဓသုတ္တံများ ကို ဆန်ကာတင် စစ်ရန် ",
   "autocomplete:goto": "သွားရန်",
   "autocomplete:textOr": "စာသား သို့မဟုတ်",
   "interface:tipsForSearchSyntax": "ရှာဖွေမှုအတွက် အကြံပြုချက်များ",
