@@ -4,6 +4,7 @@
   "autocomplete:filterSearch": "အစောပိုင်း ဗုဒ္ဓသုတ္တံများကို ဆန်ကာတင် စစ်ရန် ",
   "autocomplete:goto": "သွားရန်",
   "autocomplete:textOr": "စာသား သို့မဟုတ်",
+  "autocomplete:tipsForSearchSyntax": "ရှာဖွေရန်ပုံစံအတွက် သိကောင်းစရာများ ",
   "interface:tipsForSearchSyntax": "ရှာဖွေမှုအတွက် အကြံပြုချက်များ",
   "search:all": "အားလုံးရှာမည်",
   "search:dictionaries": "အဘိဓာန်များ",
