@@ -14,6 +14,7 @@
   "search:inputSearchTerm": "ရှာဖွေရန်စာသားကို ထည့်သွင်းပါ။",
   "search:loadMore": "ထပ်မံတင်ပြပါ",
   "search:matchPartial": "ပါဝင်သောစာသားများရှာရန်",
+  "search:metaDescriptionText": "အစောပိုင်းဗုဒ္ဓစာများနှင့် ခေတ်ပေါ်ဘာသာပြန်များ။ ဗုဒ္ဓ၏ သတိပဋ္ဌာန်၊ ဝိပဿနာ၊ ပညာ နှင့် တရားအားထုတ်မှုများကို တိပိဋကသုတ္တံများမှ ပါဠိ၊ တရုတ်၊ သက္ကတနှင့် တိဗက်ဘာသာများဖြင့် ဖော်ပြထားသည်။ ",
   "search:noResult": "{searchTerm}' အတွက် ရလဒ်များ မရှိပါ။ <br/> <a target='_blank' href='https://discourse.suttacentral.net/search?q={searchTerm}'> ဖိုရမ်တွင် ရှာရန် အကြံပြုပါသည်။</a> သို့မဟုတ် <a target=' _blank' href='https://discourse.suttacentral.net'>မေးခွန်းအသစ်</a> ကိုတင်ပါ။",
   "search:resultsFor": "ရလဒ်များ",
   "search:rootTexts": "စာသား၏ဇာစ်မြစ်များ",
