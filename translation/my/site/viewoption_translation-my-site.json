@@ -5,7 +5,7 @@
   "viewoption:activatePaliLookup": "ပါဠိစကားလုံးရှာဖွေမှု စရန်",
   "viewoption:allRefsDisabled": "အညွှန်းအားလုံးကို ပိတ်ထားသည် ",
   "viewoption:allRefsEnabled": "အညွှန်းအားလုံးကို ဖွင့်ထားသည် ",
-  "viewoption:asterisk": "မှတ်ချက်များကို (*) ပေါ်တွင်ဖော်ပြမည်",
+  "viewoption:asterisk": "(*) ပေါ်သွားလျှင် ရှင်းလင်းချက်များကို  တွေ့မည် ",
   "viewoption:changePaliScript": "ပါဠိအက္ခရာပြောင်းရန်",
   "viewoption:changePaliScriptDescription": "ဤလုပ်ဆောင်ချက်သည် သင့်အား ပါဠိစာများကို ဘာသာအက္ခရာ အမျိုးမျိုးဖြင့်  ဖတ်စေနိုင်ပါသည်။ ",
   "viewoption:changePaliScriptLabel": "စာအက္ခရာများ",
